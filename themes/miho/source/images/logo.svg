@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 產生 logo.svg 頁-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="1.3815in" height="1.73405in"
+		viewBox="0 0 99.4677 124.852" xml:space="preserve" color-interpolation-filters="sRGB" class="st2">
+	<v:documentProperties v:langID="1028" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#00cccc;stroke:none;stroke-width:1}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>頁-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="group155-1" transform="translate(2.08973,-20)" v:mID="155" v:groupContext="group">
+			<title>工作表.155</title>
+			<g id="shape58-2" v:mID="58" v:groupContext="shape" transform="translate(76.8475,162.078) rotate(150)">
+				<title>圓形圖塊.58</title>
+				<v:userDefs>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.4977871437822):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.78539816339745):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.2831853071796):32"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.0431738785321):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.16536000871613):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0.10931191564011):1"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(5.7458595972139):32"/>
+				</v:userDefs>
+				<path d="M12.09 122.76 L12.63 124.33 A9.53285 9.53285 -180 0 0 18.94 113.75 L17.3 114.02 A7.87046 7.87046 0 0 1 12.09
+							 122.76 Z" class="st1"/>
+			</g>
+			<g id="shape89-4" v:mID="89" v:groupContext="shape" transform="translate(-30.9453,46.9607) rotate(-75)">
+				<title>圓形圖塊.89</title>
+				<v:userDefs>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.4977871437822):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.78539816339745):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.2831853071796):32"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(3.4175234626004):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(5.0606981218915):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0.1093119156401):1"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(4.239110792246):32"/>
+				</v:userDefs>
+				<path d="M1.96 117.46 L0.36 117.92 A9.53285 9.53285 -180 0 0 12.79 124.28 L12.22 122.72 A7.87046 7.87046 0 0 1 1.96
+							 117.46 Z" class="st1"/>
+			</g>
+			<g id="shape39-6" v:mID="39" v:groupContext="shape" transform="translate(152.568,84.6284) rotate(110)">
+				<title>圓形圖塊.39</title>
+				<v:userDefs>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.4977871437822):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.78539816339745):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.2831853071796):32"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(3.4430652011978):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.560913198779):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0.052029848065106):1"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(5.1435818535782):32"/>
+				</v:userDefs>
+				<path d="M1.82 120.57 L0.24 121.06 A5.39607 5.39607 -180 1 0 9.97 116.59 L8.57 117.46 A3.74615 3.74615 0 1 1 1.82
+							 120.57 Z" class="st1"/>
+			</g>
+			<g id="shape68-8" v:mID="68" v:groupContext="shape" transform="translate(-42.045,16.4226) rotate(-75)">
+				<title>圓形圖塊.68</title>
+				<v:userDefs>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.4977871437822):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.78539816339745):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.2831853071796):32"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.5813180056742):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.72347166970234):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0.1093119156401):1"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.2939874912781):32"/>
+				</v:userDefs>
+				<path d="M15.54 120.4 L16.81 121.47 A9.53285 9.53285 -180 0 0 16.68 109.01 L15.43 110.11 A7.87046 7.87046 0 0 1 15.54
+							 120.4 Z" class="st1"/>
+			</g>
+			<g id="shape38-10" v:mID="38" v:groupContext="shape" transform="translate(-63.6254,69.8491) rotate(-104.3)">
+				<title>圓形圖塊.38</title>
+				<v:userDefs>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.4977871437822):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.78539816339745):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.2831853071796):32"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.2918883763191):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.6344978941887):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0.10931191564011):1"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.1047857888437):32"/>
+				</v:userDefs>
+				<path d="M13.84 121.9 L14.75 123.3 A9.53285 9.53285 -180 0 0 17.21 109.67 L15.87 110.65 A7.87046 7.87046 0 0 1 13.84
+							 121.9 Z" class="st1"/>
+			</g>
+			<g id="shape24-12" v:mID="24" v:groupContext="shape" transform="translate(-71.4453,106.369) rotate(-120)">
+				<title>圓形圖塊</title>
+				<v:userDefs>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.4977871437822):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.78539816339745):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.2831853071796):32"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.6774721760907):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.65257847049605):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0.10931191564011):1"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.3066179768832):32"/>
+				</v:userDefs>
+				<path d="M16 119.8 L17.37 120.75 A9.53285 9.53285 -180 0 0 17.11 109.53 L15.79 110.54 A7.87046 7.87046 0 0 1 16 119.8
+							 Z" class="st1"/>
+			</g>
+			<g id="shape35-14" v:mID="35" v:groupContext="shape" transform="translate(89.036,138.092) rotate(150)">
+				<title>圓形圖塊.35</title>
+				<v:userDefs>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.4977871437822):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.78539816339745):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.2831853071796):32"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.6411642731844):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.38620775291563):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0.10931191564011):1"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.1552786666398):32"/>
+				</v:userDefs>
+				<path d="M15.84 120.03 L17.17 121.03 A9.53285 9.53285 -180 0 0 18.36 111.73 L16.82 112.35 A7.87046 7.87046 0 0 1
+							 15.84 120.03 Z" class="st1"/>
+			</g>
+			<g id="shape36-16" v:mID="36" v:groupContext="shape" transform="translate(-78.8717,115.605) rotate(-121)">
+				<title>圓形圖塊.36</title>
+				<v:userDefs>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.4977871437822):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.78539816339745):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.2831853071796):32"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(6.0327362716971):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.58715954634588):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0.10931191564011):1"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.4515405626113):32"/>
+				</v:userDefs>
+				<path d="M17.16 117.27 L18.77 117.68 A9.53285 9.53285 -180 0 0 17.47 110.04 L16.09 110.96 A7.87046 7.87046 0 0 1
+							 17.16 117.27 Z" class="st1"/>
+			</g>
+			<g id="shape37-18" v:mID="37" v:groupContext="shape" transform="translate(-74.268,61.6559) rotate(-98.3)">
+				<title>圓形圖塊.37</title>
+				<v:userDefs>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.4977871437822):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.78539816339745):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.2831853071796):32"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(2.9966512996608):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.6183501784318):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0.10931191564011):1"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(4.9490933926361):32"/>
+				</v:userDefs>
+				<path d="M1.74 114.18 L0.1 113.94 A9.53285 9.53285 -180 1 0 17.3 109.79 L15.95 110.76 A7.87046 7.87046 0 1 1 1.74
+							 114.18 Z" class="st1"/>
+			</g>
+			<g id="shape57-20" v:mID="57" v:groupContext="shape" transform="translate(78.1044,151.541) rotate(150)">
+				<title>圓形圖塊.57</title>
+				<v:userDefs>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.4977871437822):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.78539816339745):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.2831853071796):32"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.3963022055025):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.58715954634586):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0.10931191564011):1"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.133323529514):32"/>
+				</v:userDefs>
+				<path d="M14.51 121.42 L15.56 122.71 A9.53285 9.53285 -180 0 0 17.47 110.04 L16.09 110.96 A7.87046 7.87046 0 0 1
+							 14.51 121.42 Z" class="st1"/>
+			</g>
+			<g id="shape60-22" v:mID="60" v:groupContext="shape" transform="translate(167.988,57.6947) rotate(90)">
+				<title>矩形</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<rect x="0" y="123.122" width="14.603" height="1.72989" class="st1"/>
+			</g>
+			<g id="shape61-24" v:mID="61" v:groupContext="shape" transform="translate(129.955,56.4004) rotate(100)">
+				<title>圓形圖塊.61</title>
+				<v:userDefs>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.4977871437822):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.78539816339745):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.2831853071796):32"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.6628698150282):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.68001024587456):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0.10931191564011):1"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.3130326840412):32"/>
+				</v:userDefs>
+				<path d="M15.94 119.89 L17.29 120.86 A9.53285 9.53285 -180 0 0 16.95 109.32 L15.65 110.37 A7.87046 7.87046 0 0 1
+							 15.94 119.89 Z" class="st1"/>
+			</g>
+			<g id="shape64-26" v:mID="64" v:groupContext="shape" transform="translate(7.75682,-49.139)">
+				<title>矩形.64</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<rect x="0" y="123.122" width="14.1323" height="1.72989" class="st1"/>
+			</g>
+			<g id="shape65-28" v:mID="65" v:groupContext="shape" transform="translate(-28.18,-44.6562) rotate(-20)">
+				<title>圓形圖塊.65</title>
+				<v:userDefs>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.4977871437822):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.78539816339745):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.2831853071796):32"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.6976989179767):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(1.0242535907651):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0.10931191564011):1"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.5025689079607):32"/>
+				</v:userDefs>
+				<path d="M16.09 119.67 L17.48 120.59 A9.53285 9.53285 -180 0 0 14.49 107.17 L13.62 108.59 A7.87046 7.87046 0 0 1
+							 16.09 119.67 Z" class="st1"/>
+			</g>
+			<g id="shape66-30" v:mID="66" v:groupContext="shape" transform="translate(-52.2221,14.6203) rotate(-75)">
+				<title>圓形圖塊.66</title>
+				<v:userDefs>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.4977871437822):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.78539816339745):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.2831853071796):32"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.2918883763191):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.63449789418871):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0.1093119156401):1"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.1047857888437):32"/>
+				</v:userDefs>
+				<path d="M13.84 121.9 L14.75 123.3 A9.53285 9.53285 -180 0 0 17.21 109.67 L15.87 110.65 A7.87046 7.87046 0 0 1 13.84
+							 121.9 Z" class="st1"/>
+			</g>
+			<g id="shape71-32" v:mID="71" v:groupContext="shape" transform="translate(24.6518,-57.1232)">
+				<title>同心圓.71</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M6.16 121.77 A3.08148 3.08148 -180 1 0 0 121.77 A3.08148 3.08148 -180 1 0 6.16 121.77 ZM1.81 121.77 A1.27509
+							 1.27509 0 1 0 4.36 121.77 A1.27509 1.27509 0 1 0 1.81 121.77 Z" class="st1"/>
+			</g>
+			<g id="shape75-34" v:mID="75" v:groupContext="shape" transform="translate(5.90059,-40.4711)">
+				<title>圓形圖塊.75</title>
+				<v:userDefs>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.4977871437822):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.78539816339745):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.2831853071796):32"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(3.3616820611155):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(5.9325389578207):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0.1093119156401):1"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(4.6471105094681):32"/>
+				</v:userDefs>
+				<path d="M1.85 117.04 L0.23 117.4 A9.53285 9.53285 -180 0 0 18.49 118.59 L16.92 118.02 A7.87046 7.87046 0 0 1 1.85
+							 117.04 Z" class="st1"/>
+			</g>
+			<g id="shape77-36" v:mID="77" v:groupContext="shape" transform="translate(30.921,-49.139)">
+				<title>矩形.77</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<rect x="0" y="123.122" width="10.5195" height="1.72989" class="st1"/>
+			</g>
+			<g id="shape78-38" v:mID="78" v:groupContext="shape" transform="translate(164.849,44.5773) rotate(75)">
+				<title>矩形.78</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<rect x="0" y="123.122" width="40.2424" height="1.72989" class="st1"/>
+			</g>
+			<g id="shape79-40" v:mID="79" v:groupContext="shape" transform="translate(-52.2221,14.6203) rotate(-75)">
+				<title>圓形圖塊.79</title>
+				<v:userDefs>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.4977871437822):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.78539816339745):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.2831853071796):32"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(1.6287126718363):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(2.3680920792717):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0.1093119156401):1"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(1.998402375554):32"/>
+				</v:userDefs>
+				<path d="M9.08 107.46 L8.98 105.8 A9.53285 9.53285 -180 0 0 2.71 108.66 L3.9 109.82 A7.87046 7.87046 0 0 1 9.08 107.46
+							 Z" class="st1"/>
+			</g>
+			<g id="shape82-42" v:mID="82" v:groupContext="shape" transform="translate(-52.2221,14.6203) rotate(-75)">
+				<title>圓形圖塊.82</title>
+				<v:userDefs>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.4977871437822):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.78539816339745):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.2831853071796):32"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(2.9610860836789):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(4.6940961095987):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0.1093119156401):1"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(3.8275910966388):32"/>
+				</v:userDefs>
+				<path d="M1.79 113.91 L0.15 113.61 A9.53285 9.53285 -180 0 0 9.36 124.85 L9.39 123.19 A7.87046 7.87046 0 0 1 1.79
+							 113.91 Z" class="st1"/>
+			</g>
+			<g id="shape83-44" v:mID="83" v:groupContext="shape" transform="translate(30.1892,-62.1539) rotate(-20)">
+				<title>圓形圖塊.83</title>
+				<v:userDefs>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.4977871437822):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.78539816339745):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.2831853071796):32"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(6.0995158192594):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.72347166970231):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0.10931191564011):1"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.5530863980706):32"/>
+				</v:userDefs>
+				<path d="M17.27 116.76 L18.91 117.06 A9.53285 9.53285 -180 0 0 16.68 109.01 L15.43 110.11 A7.87046 7.87046 0 0 1
+							 17.27 116.76 Z" class="st1"/>
+			</g>
+			<g id="shape84-46" v:mID="84" v:groupContext="shape" transform="translate(54.939,-59.2542) rotate(-10)">
+				<title>圓形圖塊.84</title>
+				<v:userDefs>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.4977871437822):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.78539816339745):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.2831853071796):32"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.9923078344284):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.72347166970232):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0.10931191564011):1"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.4994824056551):32"/>
+				</v:userDefs>
+				<path d="M17.07 117.58 L18.67 118.05 A9.53285 9.53285 -180 0 0 16.68 109.01 L15.43 110.11 A7.87046 7.87046 0 0 1
+							 17.07 117.58 Z" class="st1"/>
+			</g>
+			<g id="shape86-48" v:mID="86" v:groupContext="shape" transform="translate(54.939,-59.2542) rotate(-10)">
+				<title>圓形圖塊.86</title>
+				<v:userDefs>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.4977871437822):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.78539816339745):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.2831853071796):32"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(3.5089031816607):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(5.016133964611):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0.10931191564011):1"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(4.2625185731359):32"/>
+				</v:userDefs>
+				<path d="M2.19 118.15 L0.64 118.74 A9.53285 9.53285 -180 0 0 12.38 124.42 L11.89 122.83 A7.87046 7.87046 0 0 1 2.19
+							 118.15 Z" class="st1"/>
+			</g>
+			<g id="shape87-50" v:mID="87" v:groupContext="shape" transform="translate(102.68,172.175) rotate(165)">
+				<title>矩形.87</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<rect x="0" y="123.122" width="8.65238" height="1.72989" class="st1"/>
+			</g>
+			<g id="shape88-52" v:mID="88" v:groupContext="shape" transform="translate(56.2347,-51.4911) rotate(-10)">
+				<title>圓形圖塊.88</title>
+				<v:userDefs>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.4977871437822):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.78539816339745):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.2831853071796):32"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(4.0500999323393):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(6.10475009761):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0.10931191564011):1"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(5.0774250149746):32"/>
+				</v:userDefs>
+				<path d="M4.69 121.53 L3.67 122.84 A9.53285 9.53285 -180 0 0 18.91 117.01 L17.28 116.72 A7.87046 7.87046 0 0 1 4.69
+							 121.53 Z" class="st1"/>
+			</g>
+			<g id="shape90-54" v:mID="90" v:groupContext="shape" transform="translate(76.1868,-54.8918)">
+				<title>同心圓.90</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M6.16 121.77 A3.08148 3.08148 -180 1 0 0 121.77 A3.08148 3.08148 -180 1 0 6.16 121.77 ZM1.81 121.77 A1.27509
+							 1.27509 0 1 0 4.36 121.77 A1.27509 1.27509 0 1 0 1.81 121.77 Z" class="st1"/>
+			</g>
+			<g id="shape91-56" v:mID="91" v:groupContext="shape" transform="translate(5.54694,-23.986) rotate(-30)">
+				<title>圓形圖塊.91</title>
+				<v:userDefs>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.4977871437822):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.78539816339745):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.2831853071796):32"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(3.3535297062719):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(5.016133964611):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0.1093119156401):1"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(4.1848318354414):32"/>
+				</v:userDefs>
+				<path d="M1.84 116.97 L0.21 117.32 A9.53285 9.53285 -180 0 0 12.38 124.42 L11.89 122.83 A7.87046 7.87046 0 0 1 1.84
+							 116.97 Z" class="st1"/>
+			</g>
+			<g id="shape93-58" v:mID="93" v:groupContext="shape" transform="translate(136.912,175.339) rotate(150)">
+				<title>圓形圖塊.93</title>
+				<v:userDefs>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.4977871437822):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.78539816339745):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.2831853071796):32"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(3.2688404810966):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(5.016133964611):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0.10931191564011):1"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(4.1424872228538):32"/>
+				</v:userDefs>
+				<path d="M1.73 116.32 L0.08 116.53 A9.53285 9.53285 -180 0 0 12.38 124.42 L11.89 122.83 A7.87046 7.87046 0 0 1 1.73
+							 116.32 Z" class="st1"/>
+			</g>
+			<g id="shape95-60" v:mID="95" v:groupContext="shape" transform="translate(181.695,110.721) rotate(105)">
+				<title>矩形.95</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<rect x="0" y="123.122" width="10.2624" height="1.72989" class="st1"/>
+			</g>
+			<g id="shape96-62" v:mID="96" v:groupContext="shape" transform="translate(55.3603,-30.7712)">
+				<title>同心圓.96</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M6.16 121.77 A3.08148 3.08148 -180 1 0 0 121.77 A3.08148 3.08148 -180 1 0 6.16 121.77 ZM1.81 121.77 A1.27509
+							 1.27509 0 1 0 4.36 121.77 A1.27509 1.27509 0 1 0 1.81 121.77 Z" class="st1"/>
+			</g>
+			<g id="shape97-64" v:mID="97" v:groupContext="shape" transform="translate(137.464,-24.6192) rotate(45)">
+				<title>圓形圖塊.97</title>
+				<v:userDefs>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.4977871437822):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.78539816339745):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.2831853071796):32"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(2.8868606180224):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(4.1280727693579):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0.10931191564011):1"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(3.5074666936901):32"/>
+				</v:userDefs>
+				<path d="M1.92 113.34 L0.31 112.92 A9.53285 9.53285 -180 0 0 4.27 123.27 L5.19 121.88 A7.87046 7.87046 0 0 1 1.92
+							 113.34 Z" class="st1"/>
+			</g>
+			<g id="shape149-66" v:mID="149" v:groupContext="shape" transform="translate(152.054,67.8498) rotate(90)">
+				<title>圓形圖塊.149</title>
+				<v:userDefs>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(5.4977871437822):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(0.78539816339745):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0):24"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(6.2831853071796):32"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="CtrlAng1" v:prompt="" v:val="VT0(4.8780540055922):32"/>
+					<v:ud v:nameU="CtrlAng2" v:prompt="" v:val="VT0(5.9823879513632):32"/>
+					<v:ud v:nameU="InnerDist" v:prompt="" v:val="VT0(0.1093119156401):1"/>
+					<v:ud v:nameU="MidAngle" v:prompt="" v:val="VT0(5.4302209784777):32"/>
+				</v:userDefs>
+				<path d="M10.83 123.08 L11.1 124.72 A9.53285 9.53285 -180 0 0 18.64 118.14 L17.05 117.65 A7.87046 7.87046 0 0 1 10.83
+							 123.08 Z" class="st1"/>
+			</g>
+			<g id="shape150-68" v:mID="150" v:groupContext="shape" transform="translate(33.6534,-35.811)">
+				<title>同心圓.150</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M6.16 121.77 A3.08148 3.08148 -180 1 0 0 121.77 A3.08148 3.08148 -180 1 0 6.16 121.77 ZM1.81 121.77 A1.27509
+							 1.27509 0 1 0 4.36 121.77 A1.27509 1.27509 0 1 0 1.81 121.77 Z" class="st1"/>
+			</g>
+			<g id="shape151-70" v:mID="151" v:groupContext="shape" transform="translate(37.6942,-43.6967)">
+				<title>同心圓.151</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M12.61 118.54 A6.30716 6.30716 -180 1 0 0 118.54 A6.30716 6.30716 -180 1 0 12.61 118.54 ZM1.26 118.54 A5.04573
+							 5.04573 0 1 0 11.35 118.54 A5.04573 5.04573 0 1 0 1.26 118.54 Z" class="st1"/>
+			</g>
+			<g id="shape152-72" v:mID="152" v:groupContext="shape" transform="translate(13.8135,-66.9672)">
+				<title>同心圓.152</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M12.61 118.54 A6.30716 6.30716 -180 1 0 0 118.54 A6.30716 6.30716 -180 1 0 12.61 118.54 ZM1.26 118.54 A5.04573
+							 5.04573 0 1 0 11.35 118.54 A5.04573 5.04573 0 1 0 1.26 118.54 Z" class="st1"/>
+			</g>
+			<g id="shape153-74" v:mID="153" v:groupContext="shape" transform="translate(66.3068,-63.5048)">
+				<title>同心圓.153</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M16.78 116.46 A8.39031 8.39031 -180 1 0 -0 116.46 A8.39031 8.39031 -180 1 0 16.78 116.46 ZM1.68 116.46 A6.71225
+							 6.71225 0 1 0 15.1 116.46 A6.71225 6.71225 0 1 0 1.68 116.46 Z" class="st1"/>
+			</g>
+			<g id="shape2-76" v:mID="2" v:groupContext="shape" transform="translate(24.01,-88.1505)">
+				<title>同心圓.2</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M9.99 119.86 A4.99626 4.99626 -180 1 0 0 119.86 A4.99626 4.99626 -180 1 0 9.99 119.86 ZM2.93 119.86 A2.06742
+							 2.06742 0 1 0 7.06 119.86 A2.06742 2.06742 0 1 0 2.93 119.86 Z" class="st1"/>
+			</g>
+			<g id="shape1-78" v:mID="1" v:groupContext="shape" transform="translate(11.7946,-82.2)">
+				<title>同心圓</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M6.16 121.77 A3.08148 3.08148 -180 1 0 0 121.77 A3.08148 3.08148 -180 1 0 6.16 121.77 ZM1.81 121.77 A1.27509
+							 1.27509 0 1 0 4.36 121.77 A1.27509 1.27509 0 1 0 1.81 121.77 Z" class="st1"/>
+			</g>
+			<g id="shape27-80" v:mID="27" v:groupContext="shape" transform="translate(49.6528,-90.5922)">
+				<title>同心圓.27</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M9.99 119.86 A4.99626 4.99626 -180 1 0 0 119.86 A4.99626 4.99626 -180 1 0 9.99 119.86 ZM2.93 119.86 A2.06742
+							 2.06742 0 1 0 7.06 119.86 A2.06742 2.06742 0 1 0 2.93 119.86 Z" class="st1"/>
+			</g>
+			<g id="shape29-82" v:mID="29" v:groupContext="shape" transform="translate(86.3854,-62.2193)">
+				<title>同心圓.29</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M9.99 119.86 A4.99626 4.99626 -180 1 0 0 119.86 A4.99626 4.99626 -180 1 0 9.99 119.86 ZM2.93 119.86 A2.06742
+							 2.06742 0 1 0 7.06 119.86 A2.06742 2.06742 0 1 0 2.93 119.86 Z" class="st1"/>
+			</g>
+			<g id="shape26-84" v:mID="26" v:groupContext="shape" transform="translate(69.7008,-66.8989)">
+				<title>同心圓.26</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M9.99 119.86 A4.99626 4.99626 -180 1 0 0 119.86 A4.99626 4.99626 -180 1 0 9.99 119.86 ZM2.93 119.86 A2.06742
+							 2.06742 0 1 0 7.06 119.86 A2.06742 2.06742 0 1 0 2.93 119.86 Z" class="st1"/>
+			</g>
+			<g id="shape76-86" v:mID="76" v:groupContext="shape" transform="translate(21.5682,-45.0076)">
+				<title>同心圓.76</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M9.99 119.86 A4.99626 4.99626 -180 1 0 0 119.86 A4.99626 4.99626 -180 1 0 9.99 119.86 ZM2.93 119.86 A2.06742
+							 2.06742 0 1 0 7.06 119.86 A2.06742 2.06742 0 1 0 2.93 119.86 Z" class="st1"/>
+			</g>
+			<g id="shape94-88" v:mID="94" v:groupContext="shape" transform="translate(51.637,5.68434E-14)">
+				<title>同心圓.94</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M9.99 119.86 A4.99626 4.99626 -180 1 0 0 119.86 A4.99626 4.99626 -180 1 0 9.99 119.86 ZM2.93 119.86 A2.06742
+							 2.06742 0 1 0 7.06 119.86 A2.06742 2.06742 0 1 0 2.93 119.86 Z" class="st1"/>
+			</g>
+			<g id="shape30-90" v:mID="30" v:groupContext="shape" transform="translate(17.0012,-70.1929)">
+				<title>同心圓.30</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M6.16 121.77 A3.08148 3.08148 -180 1 0 0 121.77 A3.08148 3.08148 -180 1 0 6.16 121.77 ZM1.81 121.77 A1.27509
+							 1.27509 0 1 0 4.36 121.77 A1.27509 1.27509 0 1 0 1.81 121.77 Z" class="st1"/>
+			</g>
+			<g id="shape80-92" v:mID="80" v:groupContext="shape" transform="translate(52.4198,-79.6498)">
+				<title>同心圓.80</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M6.16 121.77 A3.08148 3.08148 -180 1 0 0 121.77 A3.08148 3.08148 -180 1 0 6.16 121.77 ZM1.81 121.77 A1.27509
+							 1.27509 0 1 0 4.36 121.77 A1.27509 1.27509 0 1 0 1.81 121.77 Z" class="st1"/>
+			</g>
+			<g id="shape31-94" v:mID="31" v:groupContext="shape" transform="translate(67.0834,-86.7691)">
+				<title>同心圓.31</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M6.16 121.77 A3.08148 3.08148 -180 1 0 0 121.77 A3.08148 3.08148 -180 1 0 6.16 121.77 ZM1.81 121.77 A1.27509
+							 1.27509 0 1 0 4.36 121.77 A1.27509 1.27509 0 1 0 1.81 121.77 Z" class="st1"/>
+			</g>
+			<g id="shape67-96" v:mID="67" v:groupContext="shape" transform="translate(77.7091,-87.8317)">
+				<title>同心圓.67</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M6.16 121.77 A3.08148 3.08148 -180 1 0 0 121.77 A3.08148 3.08148 -180 1 0 6.16 121.77 ZM1.81 121.77 A1.27509
+							 1.27509 0 1 0 4.36 121.77 A1.27509 1.27509 0 1 0 1.81 121.77 Z" class="st1"/>
+			</g>
+			<g id="shape74-98" v:mID="74" v:groupContext="shape" transform="translate(85.0062,-77.6309)">
+				<title>同心圓.74</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M6.16 121.77 A3.08148 3.08148 -180 1 0 0 121.77 A3.08148 3.08148 -180 1 0 6.16 121.77 ZM1.81 121.77 A1.27509
+							 1.27509 0 1 0 4.36 121.77 A1.27509 1.27509 0 1 0 1.81 121.77 Z" class="st1"/>
+			</g>
+			<g id="shape34-100" v:mID="34" v:groupContext="shape" transform="translate(77.1432,-45.6473)">
+				<title>同心圓.34</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M6.16 121.77 A3.08148 3.08148 -180 1 0 0 121.77 A3.08148 3.08148 -180 1 0 6.16 121.77 ZM1.81 121.77 A1.27509
+							 1.27509 0 1 0 4.36 121.77 A1.27509 1.27509 0 1 0 1.81 121.77 Z" class="st1"/>
+			</g>
+			<g id="shape92-102" v:mID="92" v:groupContext="shape" transform="translate(59.5044,-45.6473)">
+				<title>同心圓.92</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M6.16 121.77 A3.08148 3.08148 -180 1 0 0 121.77 A3.08148 3.08148 -180 1 0 6.16 121.77 ZM1.81 121.77 A1.27509
+							 1.27509 0 1 0 4.36 121.77 A1.27509 1.27509 0 1 0 1.81 121.77 Z" class="st1"/>
+			</g>
+			<g id="shape98-104" v:mID="98" v:groupContext="shape" transform="translate(52.5155,-54.3605)">
+				<title>同心圓.98</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M6.16 121.77 A3.08148 3.08148 -180 1 0 0 121.77 A3.08148 3.08148 -180 1 0 6.16 121.77 ZM1.81 121.77 A1.27509
+							 1.27509 0 1 0 4.36 121.77 A1.27509 1.27509 0 1 0 1.81 121.77 Z" class="st1"/>
+			</g>
+			<g id="shape70-106" v:mID="70" v:groupContext="shape" transform="translate(40.9198,-46.9224)">
+				<title>同心圓.70</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M6.16 121.77 A3.08148 3.08148 -180 1 0 0 121.77 A3.08148 3.08148 -180 1 0 6.16 121.77 ZM1.81 121.77 A1.27509
+							 1.27509 0 1 0 4.36 121.77 A1.27509 1.27509 0 1 0 1.81 121.77 Z" class="st1"/>
+			</g>
+			<g id="shape32-108" v:mID="32" v:groupContext="shape" transform="translate(7.5443,-56.3794)">
+				<title>同心圓.32</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M6.16 121.77 A3.08148 3.08148 -180 1 0 0 121.77 A3.08148 3.08148 -180 1 0 6.16 121.77 ZM1.81 121.77 A1.27509
+							 1.27509 0 1 0 4.36 121.77 A1.27509 1.27509 0 1 0 1.81 121.77 Z" class="st1"/>
+			</g>
+			<g id="shape69-110" v:mID="69" v:groupContext="shape" transform="translate(2.33767,-46.9224)">
+				<title>同心圓.69</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M6.16 121.77 A3.08148 3.08148 -180 1 0 0 121.77 A3.08148 3.08148 -180 1 0 6.16 121.77 ZM1.81 121.77 A1.27509
+							 1.27509 0 1 0 4.36 121.77 A1.27509 1.27509 0 1 0 1.81 121.77 Z" class="st1"/>
+			</g>
+			<g id="shape25-112" v:mID="25" v:groupContext="shape" transform="translate(-1.91847E-13,-71.1441)">
+				<title>同心圓.25</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M9.99 119.86 A4.99626 4.99626 -180 1 0 0 119.86 A4.99626 4.99626 -180 1 0 9.99 119.86 ZM2.93 119.86 A2.06742
+							 2.06742 0 1 0 7.06 119.86 A2.06742 2.06742 0 1 0 2.93 119.86 Z" class="st1"/>
+			</g>
+			<g id="shape28-114" v:mID="28" v:groupContext="shape" transform="translate(39.0051,-66.8989)">
+				<title>同心圓.28</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M9.99 119.86 A4.99626 4.99626 -180 1 0 0 119.86 A4.99626 4.99626 -180 1 0 9.99 119.86 ZM2.93 119.86 A2.06742
+							 2.06742 0 1 0 7.06 119.86 A2.06742 2.06742 0 1 0 2.93 119.86 Z" class="st1"/>
+			</g>
+			<g id="shape33-116" v:mID="33" v:groupContext="shape" transform="translate(57.3792,-66.8989)">
+				<title>同心圓.33</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M6.16 121.77 A3.08148 3.08148 -180 1 0 0 121.77 A3.08148 3.08148 -180 1 0 6.16 121.77 ZM1.81 121.77 A1.27509
+							 1.27509 0 1 0 4.36 121.77 A1.27509 1.27509 0 1 0 1.81 121.77 Z" class="st1"/>
+			</g>
+		</g>
+	</g>
+</svg>

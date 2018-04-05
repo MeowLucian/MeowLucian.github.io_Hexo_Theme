@@ -1,0 +1,117 @@
+# Favicon of your site
+favicon: images/favicon.png
+
+# Header
+
+# Keywords of your site
+keywords: Brain Garden,MeowLucian's Blog
+# Head headline
+header_title: Brain Garden
+# Head description
+header_description: MeowLucian's Blog
+# Link to your logo
+logo: images/logo.svg
+# Link to your banner_img
+banner_img: images/banner.jpg
+# Menu setting
+#  name:                  Font Awesome icon
+#    title: Home          Title
+#    url: //minhow.com    Url, absolute or relative path
+#    target: true         Whether to jump out
+menu:
+  home:
+    title: Home
+    url: /
+    target: false
+  archive:
+    title: Archives
+    url: /archives
+    target: false
+  user:
+    title: About
+    url: /about
+    target: false
+# Social setting, use to display social information
+#  name:                  Font Awesome icon
+#    title: Home          Icon title
+#    url: //minhow.com    Url, absolute or relative path
+#    target: true         Whether to jump out
+social:
+  home:
+    title: Home
+    url: //meowlucian.github.io/
+    target: true
+  github:
+    title: Github
+    url: //github.com/MeowLucian
+    target: true
+  facebook:
+    title: facebook
+    url: //facebook.com/people/羅仕安/100002550282519
+    target: true
+  linkedin:
+    title: linkedin
+    url: //linkedin.com/in/仕安-羅-505a02132/
+    target: true
+
+# Content
+
+# Excerpt length
+excerpt_length: 190
+# Excerpt link
+excerpt_link: more>>
+# New window open link
+open_new_link: false
+# Article default cover picture，size：350*150
+cover_picture: images/Default-image.png
+# Open background particles
+open_bg_particle: true
+# Open animation in homepage and head
+open_animation: true
+
+# Article
+
+# Open toc
+toc: true
+# Open share
+share: true
+
+# Style customization
+style:
+  # Main color tone
+  main_color: '#0cc'
+
+# Reward
+
+reward:
+  # 0-close, 1-All articles are rewarding, 2-Article's md file has reward:true attribute, only reward
+
+  status: 0
+  
+  title: 贊助
+
+# Comments
+
+# 暢言
+changyan_appid: false
+changyan_appkey: false
+# 友言
+youyan_id: false
+# disqus
+disqus: false
+
+# Analytics
+cnzz_analytics: false
+# google analytics
+google_analytics: false
+
+# Footer
+
+# Access statistics
+access_counter:
+  on: true
+  site_uv: 總訪客數：
+  site_pv: 總觀看量：
+
+# Copyright Information
+copyright: 2018 MeowLucian
