@@ -110,8 +110,8 @@ google_analytics: false
 # Access statistics
 access_counter:
   on: true
-  site_uv: 總訪客數：
-  site_pv: 總觀看量：
+  site_uv: 總訪客量 (Total Visitors)：
+  site_pv: 總點擊量 (Total Clicks)：
 
 # Copyright Information
 copyright: 2018 MeowLucian
