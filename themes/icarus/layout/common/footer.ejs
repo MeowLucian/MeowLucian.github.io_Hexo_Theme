@@ -1,0 +1,68 @@
+<footer class="footer">
+    <div class="container">
+        <div class="level">
+            <div class="level-start has-text-centered-mobile">
+                <a class="footer-logo is-block has-mb-6" href="<%- url_for('/') %>">
+                <% if (has_config('logo.text') && get_config('logo.text')) { %>
+                    <%= get_config('logo.text') %>
+                <% } else { %>
+                    <img src="<%- url_for(get_config('logo')) %>" alt="<%= get_config('title') %>" height="28">
+                <% } %>
+                </a>
+                <p class="is-size-7">
+                &copy; <%= date(new Date(), 'YYYY') %> <%= get_config('author') || get_config('title') %>&nbsp;
+                Powered by <a href="http://hexo.io/" target="_blank">Hexo</a> & <a
+                        href="http://github.com/ppoffice/hexo-theme-icarus">Icarus</a>
+                <!-- Counter -->
+                <center>
+                    <script language="Javascript">
+                        document.write('<a href="http://www.free-counter.jp/"></a>');
+                    </script>
+                    <noscript>
+                        <a href="http://hrs.f-counter.com/">counter</a>
+                        <a href="http://hqm.f-counter.com/">counter</a>
+                    </noscript>
+                    <nobr>
+                        <table border="0" cellspacing="0" cellpadding="0">
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <!-- <a href="http://www.free-counter.jp/"> -->
+                                            <img class="center-block" src="https://www.f-counter.net/ani1/28/1499844588/" alt="カウンター">
+                                        </a>
+                                    </td>
+                                    <td>                
+                                        <!-- <a href="http://www.free-counter.jp/"> -->
+                                            <img class="center-block" src="https://www.f-counter.net/ani2/28/1499844588/" alt="カウンター">
+                                        </a>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </nobr>
+                </center>
+                <!-- Counter End -->
+                </p>
+            </div>
+            <div class="level-end">
+            <% if (has_config('footer.links')) { %>
+                <div class="field has-addons is-flex-center-mobile has-mt-5-mobile is-flex-wrap is-flex-middle">
+                <% let links = get_config('footer.links'); %>
+                <% for (let name in links) {
+                        let link = links[name]; %>
+                <p class="control">
+                    <a class="button is-white <%= typeof(link) !== 'string' ? 'is-large' : '' %>" target="_blank" title="<%= name %>" href="<%= url_for(typeof(link) === 'string' ? link : link.url) %>">
+                        <% if (typeof(link) === 'string') { %>
+                        <%= name %>
+                        <% } else { %>
+                        <i class="<%= link.icon %>"></i>
+                        <% } %>
+                    </a>
+                </p>
+                <% } %>
+                </div>
+            <% } %>
+            </div>
+        </div>
+    </div>
+</footer>
