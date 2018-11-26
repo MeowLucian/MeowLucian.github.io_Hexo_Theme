@@ -45,13 +45,13 @@ theme: icarus
 7:3 比例呈現
 ## 網址連結
 編輯根目錄下的 `_config.yml`
-* 內網測試 :
+* Github Page 發佈 :
 ```
-url: http://localhost:3600/
+url: https://<yourname>.github.io
 ```
 * 正式發佈 :
 ```
-url: https://<yourname>.github.io
+url: http://brain-garden.tw/
 ```
 # 執行指令
 ## 產生 about 頁面
