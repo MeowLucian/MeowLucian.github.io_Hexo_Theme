@@ -6,7 +6,7 @@
                 <span class="level-item">${category.name}</span>
             </span>
             <span class="level-end">
-                <span class="level-item tag">${category.count}</span>
+                <span class="level-item tag is-primary">${category.count}</span>
             </span>
         </a>`;
         if (category.hasOwnProperty('children')) {
@@ -19,7 +19,7 @@
 <div class="card widget">
     <div class="card-content">
         <div class="menu">
-            <h3 class="menu-label">
+            <h3 class="menu-label has-text-danger">
                 <%= _p('common.category', Infinity) %>
             </h3>
             <ul class="menu-list">
