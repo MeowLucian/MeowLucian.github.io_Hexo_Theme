@@ -8,10 +8,6 @@ Hexo 使用教學與客製化主題分享。
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/)
 
-# 安裝需求
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/)
-
 # 安裝
 ## Hexo
 ```
@@ -41,6 +37,11 @@ npm install -S hexo-generator-json-content
 * Sitemap : 用於產生網站地圖關鍵字功能
 ```
 npm install hexo-generator-sitemap --save
+```
+
+* hexo-sage-posts : 隱藏特定文章
+```
+npm install hexo-sage-posts --save
 ```
 
 # 設定
