@@ -25,8 +25,16 @@ article:
     read: 'read'
     about: 'About'
     words: 'words'
+donate:
+    title: 'Like this article? Support the author with'
+    alipay: 'Alipay'
+    wechat: 'Wechat'
+    paypal: 'Paypal'
+    patreon: 'Patreon'
 plugin:
     backtotop: 'Back to Top'
+    visit: '%s visits'
+    visitor: 'Visited by %s users'
 search:
     search: 'Search'
     hint: 'Type something...'

@@ -1,12 +1,13 @@
 # Version of the Icarus theme that is currently used
-version: 2.0.0
+version: 2.3.0
 # Path or URL to the website's icon
 favicon: https://drive.google.com/uc?export=download&id=1O6kDxxDKRUJoO2l7a63UrH6pwBPg4iYM
 # Path or URL to RSS atom.xml
 rss: 
 # Path or URL to the website's logo to be shown on the left of the navigation bar or footer
 logo: https://drive.google.com/uc?export=download&id=1pD5zVq2kD5LvJwqy7jcsGiDY3xXwAW09
-# Open Graph metadata (https://hexo.io/docs/helpers.html#open-graph)
+# Open Graph metadata
+# https://hexo.io/docs/helpers.html#open-graph
 open_graph:
     # Facebook App ID
     fb_app_id: 
@@ -22,12 +23,12 @@ open_graph:
 navbar:
     # Navigation bar menu links
     menu:
-        Blog: /
+        Home: /
         Archives: /archives
         Categories: /categories
         Tags: /tags
+        List: /list
         About: /about
-    # Navigation bar links to be shown on the right
 
 # Footer section link settings
 footer:
@@ -44,40 +45,69 @@ footer:
             url: 'https://github.com/MeowLucian/MeowLucian.github.io_Hexo_Theme'
 # Article display settings
 article:
-    # Code highlight theme (https://github.com/highlightjs/highlight.js/tree/master/src/styles)
+    # Code highlight theme
+    # https://github.com/highlightjs/highlight.js/tree/master/src/styles
     highlight: atom-one-dark
     # Whether to show article thumbnail images
     thumbnail: true
     # Whether to show estimate article reading time
     readtime: true
-# Search plugin settings (http://ppoffice.github.io/hexo-theme-icarus/categories/Configuration/Search-Plugins)
+# Search plugin settings
+# https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Search
 search:
     # Name of the search plugin
     type: insight
-# Comment plugin settings (http://ppoffice.github.io/hexo-theme-icarus/categories/Configuration/Comment-Plugins)
+# Comment plugin settings
+# https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment
 comment:
     # Name of the comment plugin
     type: disqus
     shortname: braingarden
-# Share plugin settings (http://ppoffice.github.io/hexo-theme-icarus/categories/Configuration/Share-Plugins)
+# Share plugin settings
+# https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Share
 share:
     # Share plugin name
     type: 
-# Sidebar widget settings (http://ppoffice.github.io/hexo-theme-icarus/categories/Widgets/)
+# Sidebar settings.
+# Please be noted that a sidebar is only visible when it has at least one widget
+sidebar:
+    # left sidebar settings
+    left:
+        # Whether the left sidebar is sticky when page scrolls
+        # https://ppoffice.github.io/hexo-theme-icarus/Configuration/Theme/make-a-sidebar-sticky-when-page-scrolls/
+        sticky: false
+    # right sidebar settings
+    right:
+        # Whether the right sidebar is sticky when page scrolls
+        # https://ppoffice.github.io/hexo-theme-icarus/Configuration/Theme/make-a-sidebar-sticky-when-page-scrolls/
+        sticky: false
+# Sidebar widget settings
+# https://ppoffice.github.io/hexo-theme-icarus/categories/Widgets/
 widgets:
     -
+        # Widget name
         type: profile
+        # Where should the widget be placed, left or right
         position: left
+        # Author name to be shown in the profile widget
         author: Meow Lucian
+        # Title of the author to be shown in the profile widget
         author_title: Engineer
+        # Author's current location to be shown in the profile widget
         location: Hsinchu, Taiwan
+        # Path or URL to the avatar to be shown in the profile widget
         avatar: https://drive.google.com/uc?export=download&id=1_hpo3Bm18dspxCcXA0dMxyTaC5SIBzrS
+        # Email address for the Gravatar to be shown in the profile widget
         gravatar: 
-        follow_link: 'http://github.com/MeowLucian'
+        # Whether to show avatar image rounded or square
+        avatar_rounded: false
+        # Path or URL for the follow button
+        follow_link: 'https://github.com/MeowLucian'
+        # Links to be shown on the bottom of the profile widget
         social_links:
             Github:
                 icon: fab fa-github
-                url: 'http://github.com/MeowLucian'
+                url: 'https://github.com/MeowLucian'
             Facebook:
                 icon: fab fa-facebook
                 url: 'https://www.facebook.com/profile.php?id=100002550282519'
@@ -85,53 +115,79 @@ widgets:
                 icon: fab fa-linkedin
                 url: 'https://www.linkedin.com/in/lucian-lo-505a02132/'
     -
+        # Widget name
         type: toc
+        # Where should the widget be placed, left or right
         position: left
     -
+        # Widget name
         type: links
+        # Where should the widget be placed, left or right
         position: left
     -
+        # Widget name
         type: category
+        # Where should the widget be placed, left or right
         position: left
     -
+        # Widget name
         type: tagcloud
+        # Where should the widget be placed, left or right
         position: left
     -
+        # Widget name
         type: recent_posts
+        # Where should the widget be placed, left or right
         position: right
     -
+        # Widget name
         type: archive
+        # Where should the widget be placed, left or right
         position: right
     -
+        # Widget name
         type: tag
+        # Where should the widget be placed, left or right
         position: right
 # Other plugin settings
 plugins:
     # Enable page animations
     animejs: true
-    # Enable the lightGallery and Justified Gallery plugins (http://ppoffice.github.io/hexo-theme-icarus/2016/07/08/plugin/Gallery/)
+    # Enable the lightGallery and Justified Gallery plugins
+    # https://ppoffice.github.io/hexo-theme-icarus/Plugins/General/gallery-plugin/
     gallery: true
-    # Enable the Outdated Browser plugin (http://outdatedbrowser.com/)
+    # Enable the Outdated Browser plugin
+    # http://outdatedbrowser.com/
     outdated-browser: true
-    # Enable the MathJax plugin (http://ppoffice.github.io/hexo-theme-icarus/2018/01/01/plugin/MathJax/)
+    # Enable the MathJax plugin
+    # https://ppoffice.github.io/hexo-theme-icarus/Plugins/General/mathjax-plugin/
     mathjax: true
     # Show the back to top button on mobile devices
     back-to-top: true
-    # Google Analytics plugin settings (http://ppoffice.github.io/hexo-theme-icarus/2018/01/01/plugin/Analytics/#Google-Analytics)
+    # Google Analytics plugin settings
+    # https://ppoffice.github.io/hexo-theme-icarus/Plugins/General/site-analytics-plugin/#Google-Analytics
     google-analytics:
         # Google Analytics tracking id
         tracking_id: 
-    # Baidu Analytics plugin settings (http://ppoffice.github.io/hexo-theme-icarus/2018/01/01/plugin/Analytics/#Baidu-Analytics)
+    # Baidu Analytics plugin settings
+    # https://ppoffice.github.io/hexo-theme-icarus/Plugins/General/site-analytics-plugin/#Baidu-Analytics
     baidu-analytics:
         # Baidu Analytics tracking id
         tracking_id: 
-    # Hotjar user feedback plugin (http://ppoffice.github.io/hexo-theme-icarus/2018/01/01/plugin/Analytics/#Hotjar)
+    # Hotjar user feedback plugin
+    # https://ppoffice.github.io/hexo-theme-icarus/Plugins/General/site-analytics-plugin/#Hotjar
     hotjar:
         # Hotjar site id
         site_id: 
     # Show a loading progress bar at top of the page
     progressbar: true
+    # Show the copy button in the highlighted code area
+    clipboard: true
+    # BuSuanZi site/page view counter
+    # https://busuanzi.ibruce.info
+    busuanzi: false
 # CDN provider settings
+# https://ppoffice.github.io/hexo-theme-icarus/Configuration/Theme/speed-up-your-site-with-custom-cdn/
 providers:
     # Name or URL of the JavaScript and/or stylesheet CDN provider
     cdn: jsdelivr

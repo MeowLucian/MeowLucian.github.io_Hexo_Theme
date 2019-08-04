@@ -17,7 +17,9 @@ module.exports = {
     article: require('./article.spec'),
     search: require('./search.spec'),
     comment: require('./comment.spec'),
+    donate: require('./donate.spec'),
     share: require('./share.spec'),
+    sidebar: require('./sidebar.spec'),
     widgets: require('./widgets.spec'),
     plugins: require('./plugins.spec'),
     providers: require('./providers.spec')
