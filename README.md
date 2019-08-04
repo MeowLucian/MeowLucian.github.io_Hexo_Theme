@@ -20,13 +20,65 @@ cd <folder>
 npm install
 ```
 ## icarus 主題
-* 預設主題
+
+### 預設主題
 ```
 git clone https://github.com/ppoffice/hexo-theme-icarus.git themes/icarus
 ```
-* 客製化主題
+
+### 客製化主題
 ```
 git clone https://github.com/MeowLucian/MeowLucian.github.io_Hexo_Theme.git themes/icarus
+```
+
+* 個人修改項目：
+
+>icarus
+　├── layout
+　　├── categories.ejs　------->　:　修改分類顯示顏色
+　　├── tags　------->　:　修改標籤顯示顏色
+　　├── common
+　　　├── article.ejs　------->　:　修改文章內顯示方式
+　　　├── footer.ejs　------->　:　修改頁尾顯示方式
+　　├── widget
+　　　├── archive.ejs　------->　:　修改主畫面目錄顯示顏色
+　　　├── recent_posts.ejs　------->　:　修改主畫面目錄顯示顏色
+　　　├── tagcloud.ejs　------->　:　修改主畫面目錄顯示顏色
+　　　├── toc.ejs　------->　:　修改主畫面目錄顯示顏色
+　├── source
+　　├── css
+　　　├── style.styl　------->　:　修改顯示方式
+　　├── images
+　　　├── avatar.png　------->　:　修改大頭貼
+　　　├── favicon.svg　------->　:　刪除
+　　　├── logo.svg　------->　:　刪除
+　　　├── og_image.png　------->　:　刪除
+
+### 更新
+
+當原作者更新功能時，將自己客製化異動的檔案暫時使用`stash 封存`。
+
+```
+git add .
+git stash save 'stash 1'
+```
+
+查詢目前有哪些 stash。
+
+```
+git stash list
+```
+
+再將原作者 remote 的新資料 pull 下來。
+
+```
+git pull
+```
+
+之後再將 stash 的資料 apply 或 pop 回來。
+
+```
+git stash pop stash@{0}
 ```
 
 ## 外掛
@@ -34,6 +86,7 @@ git clone https://github.com/MeowLucian/MeowLucian.github.io_Hexo_Theme.git them
 ```
 npm install -S hexo-generator-json-content
 ```
+
 * Sitemap : 用於產生網站地圖關鍵字功能
 ```
 npm install hexo-generator-sitemap --save
@@ -62,6 +115,15 @@ url: https://<yourname>.github.io
 ```
 url: http://brain-garden.tw/
 ```
+
+## 404 頁面
+
+將`index.md`和`404 資料夾`放在主題的`source 文件夾`下就行了。注意在 Local 本地端測不出來；但發布在 github 上後就可以正常讀取了。
+
+>`source`
+　├── `404`
+　　├── `index.md`
+
 # 執行指令
 ## 產生 about 頁面
 ```
