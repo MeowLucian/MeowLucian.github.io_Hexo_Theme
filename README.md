@@ -4,6 +4,8 @@ My customized Hexo theme source code based on icarus theme.
 
 Hexo 使用教學與客製化主題分享。
 
+[詳細教學頁面](https://brain-garden.tw/Hexo-Tutorial/)
+
 # 安裝需求
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/)
